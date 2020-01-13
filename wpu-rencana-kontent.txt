@@ -3,10 +3,11 @@ Rencanan kontent WPU
   - es6
   - react
   - vue
-  - materi data structur
+- materi data structur
     * boolean
     * string
     * integer
 - php framework
+  - Laravel
 - interview
 - vlog
