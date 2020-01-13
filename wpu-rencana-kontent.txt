@@ -6,6 +6,7 @@ Rencanan kontent WPU
   - materi data structur
     * boolean
     * string
+    * integer
 - php framework
 - interview
 - vlog
