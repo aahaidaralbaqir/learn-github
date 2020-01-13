@@ -4,6 +4,9 @@ Rencanan kontent WPU
   - react
   - vue
   - materi data structur
+    * boolean
+    * string
+    * integer
 - php framework
 - interview
 - vlog
